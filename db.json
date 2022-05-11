@@ -1,16 +1,24 @@
-[
-    {
-        "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg",
-        "title": "Pollo Teriyaki",
-        "description": "Lorem ipsum dolor sit amet"
-    },
-    {
-        "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg", "title": "Spaghetti", "description": "Lorem ipsum dolor sit amet"
-    },
-    {
-        "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg", "title": "Tonkatsu", "description": "Lorem ipsum dolor sit amet"
-    },
-    {
-        "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg", "title": "Asado", "description": "Lorem ipsum dolor sit amet"
-    }
-]
+{
+   "recipes": [
+        {
+            "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg",
+            "title": "Pollo Teriyaki",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg",
+            "title": "Spaghetti",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg",
+            "title": "Tonkatsu",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "image": "https://t2.rg.ltmcdn.com/es/posts/6/4/5/pollo_teriyaki_con_verduras_57546_orig.jpg",
+            "title": "Asado",
+            "description": "Lorem ipsum dolor sit amet"
+        }
+    ]
+}
